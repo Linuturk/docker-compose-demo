@@ -1,1 +1,2 @@
-# docker-compose-demo
+# consul-demo
+Configuration files for a consul demo
